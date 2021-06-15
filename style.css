@@ -1,0 +1,33 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: peachpuff;
+}
+.header_div{
+    background-color: white;
+    color:red;
+}
+.header_div img{
+    width:100px;
+}
+.main_div{
+    margin-top:15px;
+    border:2px solid white;
+    background:pink;
+    padding:10px;
+    
+}
+.main_div label{
+    color:blue;
+    padding:10px;
+    width:310px;
+    margin-bottom:0px;
+    box-shadow:5px 5px 25px whitesmoke;
+
+}
+#result,#camera{
+    width:310px;
+    height:300px;
+    border: 2px solid white;
+    box-shadow:5px 5px 25px whitesmoke;
+
+}
